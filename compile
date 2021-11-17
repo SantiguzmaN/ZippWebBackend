@@ -1,0 +1,3 @@
+npm install -g @angular/cli@latest
+ng build --prod --aot=false
+gcloud app deploy
